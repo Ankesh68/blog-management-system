@@ -1,1 +1,1 @@
-# blog-management-system
+# blog_management
